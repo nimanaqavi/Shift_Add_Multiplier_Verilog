@@ -21,7 +21,7 @@ This project implements a Shift-and-Add Multiplier using the Hardware Descriptio
 # Makefile : Simplifies the build and simulation process  
 # README.md: Project documentation
 ## How shift and add multiplaier work
-# shift and add multiplaier steps for 4 bit
+## shift and add multiplaier steps for 4 bit
 ![](https://github.com/nimanaqavi/Shift_Add_Multiplier_Verilog/blob/main/Images/ECE%20367%20Online%20lectures_Page_2.jpg?raw=true)
 ![](https://github.com/nimanaqavi/Shift_Add_Multiplier_Verilog/blob/main/Images/ECE%20367%20Online%20lectures_Page_3.jpg?raw=true)
 ![](https://github.com/nimanaqavi/Shift_Add_Multiplier_Verilog/blob/main/Images/ECE%20367%20Online%20lectures_Page_4.jpg?raw=true)
