@@ -1,7 +1,7 @@
 # Verilog Implementation of Shift-and-Add Multiplier  
 
 This project implements a Shift-and-Add Multiplier using the Hardware Description Language (HDL) Verilog. The Shift-and-Add algorithm is a widely used technique for multiplying binary numbers and is particularly useful in digital hardware implementations.  
-![Shift-and-Add Multiplier](https://github.com/nimanaqavi/Shift_Add_Multiplier_Verilog/blob/main/Images/ECE%20367%20Online%20lectures_Page_6.jpg?raw=true)
+![Shift-and-Add Multiplier](https://github.com/nimanaqavi/Shift_Add_Multiplier_Verilog/blob/main/Images/ECE%20367%20Online%20lectures_Page_1.jpg?raw=true)
 ## Features  
 
 - Efficient multiplication of binary numbers using the Shift-and-Add method  
