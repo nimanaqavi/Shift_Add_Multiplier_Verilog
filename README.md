@@ -17,9 +17,9 @@ This project implements a Shift-and-Add Multiplier using the Hardware Descriptio
 # Shift_Add_Multiplier_CO.v : Verilog code for the shift-and-add multiplier sequential part
 - ![Controler](https://github.com/nimanaqavi/Shift_Add_Multiplier_Verilog/blob/main/Images/ECE%20367%20Online%20lectures_Page_8.jpg?raw=true)
 
-## How shift and add multiplaier work
-# shift and add multiplaier steps for 4 bit
-([](https://github.com/nimanaqavi/Shift_Add_Multiplier_Verilog/blob/main/Images/ECE%20367%20Online%20lectures_Page_1.jpg?raw=true)
+# How shift and add multiplaier work
+## shift and add multiplaier steps for 4 bit
+![](https://github.com/nimanaqavi/Shift_Add_Multiplier_Verilog/blob/main/Images/ECE%20367%20Online%20lectures_Page_1.jpg?raw=true)
 ![](https://github.com/nimanaqavi/Shift_Add_Multiplier_Verilog/blob/main/Images/ECE%20367%20Online%20lectures_Page_2.jpg?raw=true)
 ![](https://github.com/nimanaqavi/Shift_Add_Multiplier_Verilog/blob/main/Images/ECE%20367%20Online%20lectures_Page_3.jpg?raw=true)
 ![](https://github.com/nimanaqavi/Shift_Add_Multiplier_Verilog/blob/main/Images/ECE%20367%20Online%20lectures_Page_4.jpg?raw=true)
